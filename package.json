@@ -1,0 +1,22 @@
+{
+  "name": "meeting_rooms_i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantk91/meeting-rooms-easy.git"
+  },
+  "author": "Evan Greer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantk91/meeting-rooms-easy/issues"
+  },
+  "homepage": "https://github.com/evantk91/meeting-rooms-easy#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
